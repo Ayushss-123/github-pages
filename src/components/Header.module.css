@@ -1,0 +1,31 @@
+.aboutUs,
+.home,
+.ourTeams {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.aboutUs,
+.ourTeams {
+  left: 122px;
+}
+.ourTeams {
+  left: 409px;
+  font-weight: 600;
+}
+.homeParent,
+.services {
+  position: absolute;
+  top: 0;
+  left: 268px;
+}
+.homeParent {
+  top: 55px;
+  left: 606px;
+  width: 498px;
+  height: 24px;
+  text-align: left;
+  font-size: var(--poppins-regular-16-size);
+  color: var(--grayscale-50);
+  font-family: var(--poppins-bold-56);
+}

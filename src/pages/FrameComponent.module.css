@@ -1,0 +1,11 @@
+.typeModeler,
+.typeModelerParent {
+  position: relative;
+  width: 800px;
+  height: 380px;
+}
+.typeModelerParent {
+  background-color: var(--grayscale-white);
+  width: 100%;
+  overflow: hidden;
+}

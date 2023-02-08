@@ -1,0 +1,31 @@
+.websiteDesign {
+  position: absolute;
+  top: 89px;
+  left: 90px;
+  line-height: 120%;
+  display: inline-block;
+  width: 911px;
+}
+.labelChild {
+  position: absolute;
+  height: 40.99%;
+  width: 3.73%;
+  top: 29.32%;
+  right: 0.73%;
+  bottom: 29.69%;
+  left: 95.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.label {
+  position: relative;
+  background-color: var(--primary-blue-100);
+  width: 100%;
+  height: 275px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 80px;
+  color: var(--grayscale-white);
+  font-family: var(--font-gilroy-black);
+}

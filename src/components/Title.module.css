@@ -1,0 +1,8 @@
+.portofolio {
+  position: absolute;
+  top: 191px;
+  left: 563px;
+  font-size: var(--poppins-bold-56-size);
+  line-height: 140%;
+  color: var(--grayscale-black);
+}

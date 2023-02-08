@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gilroy-Black:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --poppins-bold-56: Poppins;
+  --font-gilroy-black: Gilroy-Black;
+
+  /* font sizes */
+  --poppins-medium-14-size: 14px;
+  --poppins-regular-16-size: 16px;
+  --poppins-regular-18-size: 18px;
+  --poppins-semibold-24-size: 24px;
+  --font-size-xl: 31.93px;
+  --poppins-semibold-32-size: 32px;
+  --poppins-semibold-36-size: 36px;
+  --poppins-regular-52-size: 52px;
+  --poppins-bold-56-size: 56px;
+  --poppins-bold-72-size: 72px;
+
+  /* Colors */
+  --grayscale-white: #fff;
+  --grayscale-black: #000;
+  --grayscale-10: #9c9c9c;
+  --primary-blue-100: #2c3878;
+  --grayscale-30: #3c3c3c;
+  --grayscale-50: #333;
+  --grayscale-70: #141414;
+  --color-gainsboro: #d9d9d9;
+
+  /* Paddings */
+  --padding-sm: 14px;
+  --padding-md: 32px;
+}
